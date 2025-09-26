@@ -1,0 +1,26 @@
+[
+    {
+        "ID": "SV001",
+        "Họ tên": "Nguyễn Văn An",
+        "Điểm": 8.5,
+        "Xếp loại": "Giỏi"
+    },
+    {
+        "ID": "SV002",
+        "Họ tên": "Trần Thị Bình",
+        "Điểm": 9,
+        "Xếp loại": "Xuất sắc"
+    },
+    {
+        "ID": "SV003",
+        "Họ tên": "Lê Văn Cường",
+        "Điểm": 6,
+        "Xếp loại": "Trung bình"
+    },
+    {
+        "ID": "SV004",
+        "Họ tên": "Phạm Thị Mai",
+        "Điểm": 7.5,
+        "Xếp loại": "Khá"
+    }
+]
