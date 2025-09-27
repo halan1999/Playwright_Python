@@ -2,7 +2,7 @@ Create a Vertical portrait shot in 1080x1920 format, characterized by stark cine
 # This is Ngan's assignment folder
 
 Xin chao moi nguoi!
-
+Ahihi xin chao moi nguoi
 
 Hello
 
