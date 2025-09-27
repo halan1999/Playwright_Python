@@ -4,8 +4,9 @@ Create a Vertical portrait shot in 1080x1920 format, characterized by stark cine
 
 Xin chao moi nguoi!
 Ahihi xin chao moi nguoi
-
+Toi la Thanh Ngan
 Hello
+Thanh Ngan la toi
 toi la thanh-ngan ne
 
 Hello
