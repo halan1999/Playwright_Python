@@ -1,2 +1,3 @@
 # This is Ngan's assignment folder
-test readme
+
+Xin chao moi nguoi!
