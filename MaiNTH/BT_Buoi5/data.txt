@@ -1,0 +1,3 @@
+Xin chào, đây là ví dụ đọc file trong Python.
+Học Python
+File này có 3 dòng.
