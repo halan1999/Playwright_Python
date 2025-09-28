@@ -1,21 +1,11 @@
-# Playwright_Python
-Please use this repository exclusively for uploading your homework
+Create a Vertical portrait shot in 1080x1920 format, characterized by stark cinematic lighting and intense contrast. Captured with a slightly low, upward-facing angle that dramatizes the subject’s jawline and neck, the composition evokes quiet dominance and sculptural elegance. The background is a deep, saturated crimson red, creating a bold visual clash with the model’s luminous skin and dark wardrobe. Lighting is tigaily directional, casting warm golden highlights on one side of the face while plunging the other into velvety shadow, emphasizing bone structure with almost architectural precision. wearing smart black suit and black shirt. shooting haft top body.
+# This is Ngan's assignment folder
 
-# Homework Submission Guidelines
-Please follow the instructions below to submit your homework properly:
+Xin chao moi nguoi!
 
-1. **Create your own branch**  
-   - Name the branch after yourself (e.g., `john-doe`).
 
-2. **Clone the repository to your local machine**  
-   - Check out the branch with your name.
+Hello
 
-3. **Create a personal folder**  
-   - Name the folder after yourself.  
-   - Place all homework assignments for each session in this folder.
 
-4. **Commit and push your updates**  
-   - Make sure your work is pushed to the remote repository.
-
-5. **Open a Pull Request (PR)**  
-   - Assign the teacher as the reviewer for your PR.
+Hello
+HELLO
