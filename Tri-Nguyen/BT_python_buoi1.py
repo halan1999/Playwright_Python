@@ -1,0 +1,1 @@
+print("đây là bài tập đầu tiên")
