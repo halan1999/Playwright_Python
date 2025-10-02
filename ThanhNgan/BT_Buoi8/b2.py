@@ -1,3 +1,16 @@
+""" 
+Bài 2: Máy tính đơn giản Viết một class Calculator.
+
+Không cần __init__ phức tạp.
+
+Phương thức add(a, b): Trả về tổng của a và b.
+
+Phương thức subtract(a, b): Trả về hiệu của a và b.
+
+Phương thức multiply(a, b): Trả về tích của a và b.
+
+Phương thức divide(a, b): Trả về thương của a và b. Dùng try-except để xử lý trường hợp b bằng 0.
+"""
 class Calculator:
     def add(a, b):
         return a + b
