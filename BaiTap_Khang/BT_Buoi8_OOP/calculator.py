@@ -19,7 +19,6 @@ class Calculator:
         try:
             d4 = a / b
             print(f"{a} / {b} = {d4}")
-            # return d4
         except ZeroDivisionError:
             print("Error: Division by zero is invalid")
         
