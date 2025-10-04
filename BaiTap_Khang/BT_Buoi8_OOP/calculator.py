@@ -5,7 +5,7 @@
 # Phương thức multiply(a, b): Trả về tích của a và b.
 # Phương thức divide(a, b): Trả về thương của a và b. Dùng try-except để xử lý trường hợp b bằng 0.
 
-class Calculator:
+class Calculators:
     def add(self, a, b):
         d1 = a + b
         print(f"{a} + {b} = {d1}")
@@ -22,7 +22,7 @@ class Calculator:
         except ZeroDivisionError:
             print("Error: Division by zero is invalid")
         
-calc = Calculator()        
+calc = Calculators()        
 calc.add(4, 2)
 calc.subtract(4, 2)
 calc.multiply(4, 2)
