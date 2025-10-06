@@ -15,25 +15,25 @@ Phương thức login(self, username, password): Gọi 3 phương thức trên t
 """
 
 class LoginPage: 
-    def __init__(self, driver):
+    def __init__(self, driver, username_locator, password_locator, button_locator ):
         self.driver = driver
+        self.username_locator = username_locator
+        self.password_locator = password_locator
+        self.button_locator = button_locator
 
     def enter_username(self, username):
-        username_locator = './abc/username-text-box'
-        print(f"Tìm vị trí username tại {username_locator}")
+        print(f"Tìm vị trí username tại {self.username_locator}")
         print(f"Nhập username = {username}")
         print("Hoàn tất nhập username")
 
     
     def enter_password(self, password):
-        password_locator = './abc/password-text-box'
-        print(f"Tìm vị trí password tại {password_locator}")
+        print(f"Tìm vị trí password tại {self.password_locator}")
         print(f"Nhập password = {password}")
         print("Hoàn tất nhập password")
 
     def click_login(self):
-        login_locator = './abc/login-button'
-        print(f"Tìm vị trí button login tại {login_locator}")
+        print(f"Tìm vị trí button login tại {self.button_locator}")
         print("Thực hiện click")
         print("Đăng nhập thành công")
 
@@ -43,5 +43,5 @@ class LoginPage:
         self.click_login()
 
 print(f"Tiến hành thực toàn bộ quy trình đăng nhập")
-login_page_1 = LoginPage('driver')
+login_page_1 = LoginPage('driver','./abc/username-textbox', './abc/password-textbox', './abc/button-textbox')
 login_page_1.login('thanhngan','abc@123')
